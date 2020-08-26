@@ -1,0 +1,22 @@
+.enroll-details {
+    color: #10ac84;
+}
+#total-price {
+    color: #222f3e;
+    font-weight: 700;
+}
+.review-button {
+    color: #2d3436;
+    background-color: #00b894;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #2d3436;
+    border-radius: 5px;
+    display: block;
+    margin: 15px auto;
+}
+.review-button:hover {
+    color: #00b894;
+    background-color:#2d3436;
+    border: 1px solid #00b894;
+}

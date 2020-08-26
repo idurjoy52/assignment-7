@@ -1,0 +1,10 @@
+.school-area {
+    display: flex;
+}
+.school-area .course-area {
+    width: 75%;
+    border-right: 1px solid grey;
+}
+.school-area .cart-area {
+    width: 25%;
+}

@@ -1,0 +1,20 @@
+.add-button {
+    color: #2d3436;
+    background-color: #00b894;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #2d3436;
+    border-radius: 5px;
+}
+.add-button:hover {
+    color: #00b894;
+    background-color:#2d3436;
+    border: 1px solid #00b894;
+}
+.heading {
+    display: table;
+    margin: 10px auto;
+    color: #01a3a4;
+    border-bottom: 1px solid #576574;
+    padding: 0 15px;
+}
